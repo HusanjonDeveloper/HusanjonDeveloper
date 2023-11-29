@@ -40,7 +40,7 @@ Pull a github user's contribution graph.
 
 - 🔭 I’m currently working on https://github.com/HusanjonDeveloper/Sheenam
 
-- 👨‍💻 All of my projects are available at [https://github.com/HusanjonDeveloper/Sheenman](https://github.com/HusanjonDeveloper/Sheenman)
+- 👨‍💻 All of my projects are available at
 
 - 📫 How to reach me **aliakbarov550@gmail.com**
 
