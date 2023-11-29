@@ -38,7 +38,7 @@ Pull a github user's contribution graph.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husanjondeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="husanjondeveloper" /> </p>
 
-- 🔭 I’m currently working on [Sheeneman](https://github.com/HusanjonDeveloper/Sheenman.git)
+- 🔭 I’m currently working on https://github.com/HusanjonDeveloper/Sheenam
 
 - 👨‍💻 All of my projects are available at [https://github.com/HusanjonDeveloper/Sheenman](https://github.com/HusanjonDeveloper/Sheenman)
 
