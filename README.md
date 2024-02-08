@@ -34,6 +34,7 @@ Pull a github user's contribution graph.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Muhammadaliyev%20Khusanjon&fontSize=30&fontgreenish=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+CSharp+developer;I'm+.NET+developer;)](#)
+
 <?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
 <style>
 .keyColor {fill: #ffa657;}
