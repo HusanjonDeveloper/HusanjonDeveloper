@@ -1,5 +1,6 @@
 
 About Me
+
 👋 Hi, I'm Husanjon, a passionate backend developer with expertise in C# and .NET technologies. I specialize in creating scalable solutions using microservices architecture and API-driven development. Currently, I'm working on projects that involve building web applications with Blazor for frontend and .NET for backend.
 
 🚀 I love diving into complex systems, and I'm always eager to learn the latest in software development, especially in the .NET ecosystem.
