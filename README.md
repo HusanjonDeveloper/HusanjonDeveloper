@@ -13,6 +13,6 @@ Telegram Bot Development
 API Integration
 Blazor for Frontend
 Database Management (SQL)
-📈 In addition to coding, I'm active on Instagram, where I share tips and tricks for developers. Feel free to check out my profile @muhammad_khusan.
+📈 In addition to coding, I'm active on Instagram, where I share tips and tricks for developers. Feel free to check out my profile @klkkkkkkklkk .
 
 💬 Let's connect and collaborate on projects!
